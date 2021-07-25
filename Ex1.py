@@ -1,0 +1,7 @@
+print("Hello World!")
+print("Hello Again")
+print("I like tyoing this")
+print("This is fun")
+print("Yay! Printing")
+print("Roc Marci is tight")
+#print("True, smooth flow")
